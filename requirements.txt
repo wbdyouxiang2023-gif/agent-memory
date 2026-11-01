@@ -1,0 +1,4 @@
+# Agent Memory System - 依赖
+
+# 纯 Python 标准库实现，零外部依赖
+# Python >= 3.8
